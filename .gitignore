@@ -1,6 +1,18 @@
 # Prerequisites
 *.d
 
+# For Arduino
+*.hex
+*.elf
+*.bin
+*.map
+*.eep
+*.lss
+*.lst
+
+build/
+.vscode/
+
 # Compiled Object files
 *.slo
 *.lo
