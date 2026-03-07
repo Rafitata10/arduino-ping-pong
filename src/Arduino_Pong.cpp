@@ -1,4 +1,4 @@
-/*
+/***************************************************
   PONG v2 – Arduino Nano + OLED I2C + Botón Pausa/Iniciar
 
   ─ Hardware ─
@@ -22,7 +22,7 @@
   BUZZER - → GND
 
   Dirección OLED habitual: 0x3C
-*/
+***************************************************/
 
 #include <Wire.h>
 #include <Adafruit_GFX.h>
